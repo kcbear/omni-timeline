@@ -1,2 +1,9 @@
 # omni-timeline
-java/data visualization/graphQL
+java/data visualization/SpringBoot/AngularJS/graphQL
+
+
+To build,
+./gradlew build
+
+To run,
+./gradlew bootRun
